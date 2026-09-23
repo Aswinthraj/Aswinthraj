@@ -8,9 +8,9 @@
   <a href="https://github.com/Aswinthraj">
     <img src="https://img.shields.io/badge/GitHub-Aswinthraj-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/femiln-aswinth-raj-p-b7128028b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Femilin%20Aswinth-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
+<a href="https://www.linkedin.com/in/femiln-aswinth-raj-p-b7128028b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Femilin%20Aswinth%20Raj-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
   <a href="https://leetcode.com/u/Aswinthraj/">
     <img src="https://img.shields.io/badge/LeetCode-Aswinthraj-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode">
   </a>
@@ -618,8 +618,8 @@ Reliable & Scalable Systems
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswinthraj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinthraj&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aswinthraj&theme=tokyonight" height="170" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aswinthraj&theme=tokyonight" height="170" alt="Top Languages">
 </p>
 
 <p align="center">
